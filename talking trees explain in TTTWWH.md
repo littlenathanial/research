@@ -1,6 +1,6 @@
 Two types of trees can talk: normal trees and fat trees (do not trust the fat trees)
 
-== Grass path ==
+# Grass path
 * She, the one who was never remembered.
 * Do not trust the fat trees. - The fat trees are liars. Most of the time they tell you the opposite of truth.
 * Be aware, the statue lives. - The statue at the bottom moves when you activate new sections of land.
@@ -13,24 +13,24 @@ Two types of trees can talk: normal trees and fat trees (do not trust the fat tr
 * The thing walks with her - Just the title of the game
 * The end is only where you determine it to be. - This may be true, however this contradicts "The end is never the end"
 
-== Glass path ==
+# Glass path
 * The paths of life - The "paths of life" is something that is repeated a lot in some of Littlenathanial's places
 
-== Stone path ==
+# Stone path
 * (Fat tree) What is the statue?
 * She was here before. - Littlenathanial's mother was here before.
 * (Fat tree) Where are you?
 
-== Fall path ==
+# Fall path
 * Turn back while you can - The tree warns you of the danger in the Fall path.
 * The fat trees - Not a complete sentence but we can deduce that the fat trees killed people.
 
-== Meeting path ==
+# Meeting path
 * Only the one can pass. - Only Littlenathanial can pass.
 
-== Mystery path ==
+# Mystery path
 * How did you get here?
 * But you can not go on.
 
-== City path ==
+# City path
 * Something in the night.
